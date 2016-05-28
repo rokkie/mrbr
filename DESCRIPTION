@@ -1,0 +1,10 @@
+Package: mrbr
+Type: Package
+Title: MapReduce Rokkie Brown
+Version: 0.1.0
+Author: Rocco Bruyn
+Maintainer: Rocco Bruyn <rocco.bruyn@gmail.com>
+Description: Calculates average and standard deviation using Map/Reduce
+License: WTFPL2
+LazyData: TRUE
+RoxygenNote: 5.0.1
