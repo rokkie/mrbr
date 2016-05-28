@@ -5,6 +5,5 @@ before_script:
 
 build:
   script:
-    - R CMD devtools::document(roclets=c('rd', 'collate', 'namespace'))
-    - R CMD devtools::build()
+    - R CMD build .
 
