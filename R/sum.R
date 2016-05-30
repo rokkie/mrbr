@@ -1,5 +1,6 @@
 ## Import libraries
 library(rmr2)
+library(magrittr)
 
 #' Calculate Sum
 #'

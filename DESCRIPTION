@@ -8,4 +8,4 @@ Description: Calculates average and standard deviation using Map/Reduce.
 License: WTFPL-2
 LazyData: TRUE
 RoxygenNote: 5.0.1
-Imports: rmr2
+Imports: rmr2, magrittr
