@@ -1,7 +1,7 @@
 Package: mrbr
 Type: Package
 Title: MapReduce Rokkie Brown
-Version: 0.1.0
+Version: 1.0.0
 Author: Rocco Bruyn
 Maintainer: Rocco Bruyn <rocco.bruyn@gmail.com>
 Description: Calculates average and standard deviation using Map/Reduce.
